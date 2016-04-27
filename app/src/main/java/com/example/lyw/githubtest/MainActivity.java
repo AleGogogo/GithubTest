@@ -15,6 +15,10 @@ public class MainActivity extends ActionBarActivity {
         //rfsfsf
         //fsdfsfd
         //dfgsdfgsdfgsd
+
+        //dgfsfdg
+
+
     }
 
 
@@ -23,6 +27,7 @@ public class MainActivity extends ActionBarActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
+        //rtsert
     }
 
     @Override
@@ -35,6 +40,8 @@ public class MainActivity extends ActionBarActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
+
+            //fsfsfd
         }
 
         return super.onOptionsItemSelected(item);
